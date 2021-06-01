@@ -1,1 +1,1 @@
-# EMF-Theme-Static
+# Shopify-Theme-3
