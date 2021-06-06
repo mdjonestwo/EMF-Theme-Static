@@ -94,7 +94,7 @@ nav .row .col .logo{
 
 .jumbo .jumbo-text{
     margin: 0 30%;
-    padding: 10% 0;
+    padding: 3% 0;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -339,6 +339,7 @@ nav .row .col .logo{
       justify-content: center;
       flex-direction: column;
       align-items: center;
+      padding: 3% 0;
 
   }
   
@@ -346,7 +347,9 @@ nav .row .col .logo{
   .collection-banner-2 .cd-section .cd-wrapper h2{
     font-size: 64px;
     color: white;
-    padding-top: 300px;
+    padding: 30px;
+    width: 800px;
+
   }
 
   .collection-banner-2 .cd-section .cd-wrapper .the-btn{
@@ -599,13 +602,14 @@ footer li a{
 
     .jumbo p{
         color: white;
-        font-size: 24px;
+        font-size: 18px;
+        width: 300px;
     }
 
     .the-btn{
         border: 1px solid black;
         background-color: white;
-        padding: .5rem 1.3rem !important;
+        padding: .5rem 1px !important;
         font-size: 20px;
         font-weight: 400; 
         width: max-content;
@@ -640,7 +644,7 @@ footer li a{
    }
 
    .collection-banner-1 .cd-section .cd-wrapper h2{
-    font-size: 64px;
+    font-size: 36px;
     color: white;
     padding-top: 150px;
     }
@@ -667,7 +671,7 @@ footer li a{
    }
 
    .collection-banner-2 .cd-section .cd-wrapper h2{
-    font-size: 64px;
+    font-size: 36px;
     color: white;
     padding-top: 150px;
     }
@@ -693,9 +697,10 @@ footer li a{
    }
 
    .collection-banner-2 .cd-section .cd-wrapper h2{
-    font-size: 64px;
+    font-size: 36px;
     color: white;
     padding-top: 150px;
+    width: 300px;
     }
     
     
